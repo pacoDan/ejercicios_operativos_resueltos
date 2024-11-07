@@ -1,3 +1,15 @@
+### compilar
+```sh
+make # genera el ejecutable
+```
+### eliminar el ejecutable
+```sh
+make clean # elimina el ejecutable
+```
+### ejecutar
+```sh
+./ejemplo_semaforos # correr el programa
+```
 # Ejemplo de Semáforos en C
 
 Este es un programa simple en C que demuestra el uso de semáforos en hilos para imprimir secuencias de caracteres en la pantalla.
